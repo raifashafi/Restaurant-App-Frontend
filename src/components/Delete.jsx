@@ -24,7 +24,7 @@ const Delete = () => {
                             <input type="text" className="form-control" name='orderid' value={data.orderid} onChange={inputHandler} />
                         </div>
                         <div className="col col-12 col-sm-6 col-md-4 col-lg-3 col-xl-3 col-xxl-3">
-                         <button className="btn btn-danger"  onClick={readValue}>delete</button>
+                         <button className="btn btn-danger"  onClick={readValuet}>delete</button>
                         </div>
                     </div>
                 </div>
